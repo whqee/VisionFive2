@@ -24,7 +24,7 @@ $ sudo apt-get install git-lfs
 
 Checkout this repository  (e.g.: branch `JH7110_VisionFive2_devel`). Then checkout all of the linked submodules using:
 
-	$ git clone git@github.com:starfive-tech/VisionFive2.git
+	$ git clone https://github.com/starfive-tech/VisionFive2.git
 	$ cd VisionFive2
    	$ git checkout JH7110_VisionFive2_devel
 	$ git submodule update --init --recursive
