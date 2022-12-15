@@ -1,16 +1,16 @@
 [submodule "buildroot"]
 	path = buildroot
-	url = git@github.com:starfive-tech/buildroot.git
+	url = https://github.com/starfive-tech/buildroot.git
 	branch = JH7110_VisionFive2_devel
 [submodule "u-boot"]
 	path = u-boot
-	url = git@github.com:starfive-tech/u-boot.git
+	url = https://github.com/starfive-tech/u-boot.git
 	branch = JH7110_VisionFive2_devel
 [submodule "linux"]
 	path = linux
-	url = git@github.com:starfive-tech/linux.git
+	url = https://github.com/starfive-tech/linux.git
 	branch = JH7110_VisionFive2_devel
 [submodule "opensbi"]
 	path = opensbi
-	url = git@github.com:starfive-tech/opensbi.git
+	url = https://github.com/starfive-tech/opensbi.git
 	branch = master
